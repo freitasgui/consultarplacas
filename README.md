@@ -1,0 +1,3 @@
+# consultarplacas
+Consultar informações sobre veículos carros/motos/caminhões pela placa, trazendo via Scrapping informações importantes como Valor Fipe, descrição do veículo etc...
+![image](https://github.com/freitasgui/consultarplacas/assets/117831172/2d03892a-7e74-4c5a-a77a-98bd2b22b755)
